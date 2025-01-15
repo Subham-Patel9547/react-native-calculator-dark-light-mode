@@ -1,5 +1,5 @@
 // Background Colors
-// export const darkBackground = 'rgb(0, 0, 0)';
+export const darkBackground = 'rgb(0, 0, 0)';
 export const lightBackground = 'rgb(255, 255, 255)';
 
 // Display Section Backgrounds
